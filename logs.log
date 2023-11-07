@@ -2037,3 +2037,13 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2023-11-07 09:51:28,154:INFO:Initializing load_model()
 2023-11-07 09:51:28,154:INFO:load_model(model_name=ml_airbnb, platform=None, authentication=None, verbose=True)
+2023-11-07 09:59:34,578:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-07 09:59:34,579:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-07 09:59:34,579:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-07 09:59:34,579:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-07 09:59:34,737:INFO:Initializing load_model()
+2023-11-07 09:59:34,737:INFO:load_model(model_name=ml_airbnb, platform=None, authentication=None, verbose=True)
